@@ -1,5 +1,5 @@
 # occrdemo
-用于中文文字识别的demo小程序
+在win10运行的中文文字识别的demo小程序
 
 git clone https://github.com/exmee/occrdemo.git
 
